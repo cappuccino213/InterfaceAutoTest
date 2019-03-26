@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<page>
+		<database name="eWordPOD">
+			<table name="VP_FilmSample">
+				<sql id='select_filmsample'>
+					select * from VP_FilmSample WHERE FilmSampleID=%s
+				</sql>
+				<sql id='delete_filmsample'>
+					delete from VP_FilmSample WHERE FilmSampleID=%s
+				</sql>
+			</table>
+		</database>
+	</page>

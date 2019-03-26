@@ -1,0 +1,90 @@
+[时间]:2019-03-26 17:21:51,846
+[线程]:27392
+[级别]:INFO
+[路径]:E:/python/AutoTestPlat/InterfaceAutoTest/Common/ReadXlsx.py
+[函数]:get_xlsx_dict
+[行号]:72
+[信息]:case 1:{'case_name': 'GetExamList', 'method': 'post', 'url': '/Exam/GetExamList', 'code': 200.0, 'msg': 0.0, 'headers': {'Accept': 'application/json, text/plain, */*', 'Content-Type': 'application/json;charset=UTF-8'}, 'token': 1.0, 'params': '', 'data': {'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}}
+------------------
+
+[时间]:2019-03-26 17:21:51,846
+[线程]:27392
+[级别]:INFO
+[路径]:E:/python/AutoTestPlat/InterfaceAutoTest/Common/ReadXlsx.py
+[函数]:get_xlsx_dict
+[行号]:72
+[信息]:case 2:{'case_name': 'GetDicomPeerDropDown', 'method': 'get', 'url': '/Admin/Config/GetDicomPeerDropDown', 'code': 200.0, 'msg': 0.0, 'headers': {'Accept': 'application/json, text/plain, */*'}, 'token': 1.0, 'params': '', 'data': ''}
+------------------
+
+[时间]:2019-03-26 17:21:51,846
+[线程]:27392
+[级别]:INFO
+[路径]:E:/python/AutoTestPlat/InterfaceAutoTest/Common/ReadXlsx.py
+[函数]:get_xlsx_dict
+[行号]:72
+[信息]:case 3:{'case_name': 'GetAdminConfig', 'method': 'get', 'url': '/Admin/Config/GetAdminConfig', 'code': 200.0, 'msg': 0.0, 'headers': {'Accept': 'application/json, text/plain, */*'}, 'token': 1.0, 'params': '', 'data': ''}
+------------------
+
+[时间]:2019-03-26 17:21:51,846
+[线程]:27392
+[级别]:INFO
+[路径]:E:/python/AutoTestPlat/InterfaceAutoTest/Common/ReadXlsx.py
+[函数]:get_xlsx_dict
+[行号]:72
+[信息]:case 4:{'case_name': 'Login', 'method': 'get', 'url': '/Home/Login', 'code': 200.0, 'msg': 0.0, 'headers': {'Accept': 'application/json, text/plain, */*'}, 'token': 1.0, 'params': {'account': 'Admin', 'password': '888afc9f6809948a9041ba57859b4897', 'loginType': '1'}, 'data': ''}
+------------------
+
+[时间]:2019-03-26 17:21:51,846
+[线程]:27392
+[级别]:INFO
+[路径]:E:/python/AutoTestPlat/InterfaceAutoTest/Common/ReadXlsx.py
+[函数]:get_xlsx_dict
+[行号]:72
+[信息]:case 5:{'case_name': 'GetExamList', 'method': 'post', 'url': '/Exam/GetExamList', 'code': 401.0, 'msg': 0.0, 'headers': {'Accept': 'application/json, text/plain, */*', 'Content-Type': 'application/json;charset=UTF-8'}, 'token': 0.0, 'params': '', 'data': {'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}}
+------------------
+
+[时间]:2019-03-26 17:22:21,055
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadXlsx.py
+[函数]:get_xlsx_dict
+[行号]:72
+[信息]:case 1:{'case_name': 'GetExamList', 'method': 'post', 'url': '/Exam/GetExamList', 'code': 200.0, 'msg': 0.0, 'headers': {'Accept': 'application/json, text/plain, */*', 'Content-Type': 'application/json;charset=UTF-8'}, 'token': 1.0, 'params': '', 'data': {'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}}
+------------------
+
+[时间]:2019-03-26 17:22:21,055
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadXlsx.py
+[函数]:get_xlsx_dict
+[行号]:72
+[信息]:case 2:{'case_name': 'GetDicomPeerDropDown', 'method': 'get', 'url': '/Admin/Config/GetDicomPeerDropDown', 'code': 200.0, 'msg': 0.0, 'headers': {'Accept': 'application/json, text/plain, */*'}, 'token': 1.0, 'params': '', 'data': ''}
+------------------
+
+[时间]:2019-03-26 17:22:21,056
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadXlsx.py
+[函数]:get_xlsx_dict
+[行号]:72
+[信息]:case 3:{'case_name': 'GetAdminConfig', 'method': 'get', 'url': '/Admin/Config/GetAdminConfig', 'code': 200.0, 'msg': 0.0, 'headers': {'Accept': 'application/json, text/plain, */*'}, 'token': 1.0, 'params': '', 'data': ''}
+------------------
+
+[时间]:2019-03-26 17:22:21,057
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadXlsx.py
+[函数]:get_xlsx_dict
+[行号]:72
+[信息]:case 4:{'case_name': 'Login', 'method': 'get', 'url': '/Home/Login', 'code': 200.0, 'msg': 0.0, 'headers': {'Accept': 'application/json, text/plain, */*'}, 'token': 1.0, 'params': {'account': 'Admin', 'password': '888afc9f6809948a9041ba57859b4897', 'loginType': '1'}, 'data': ''}
+------------------
+
+[时间]:2019-03-26 17:22:21,057
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadXlsx.py
+[函数]:get_xlsx_dict
+[行号]:72
+[信息]:case 5:{'case_name': 'GetExamList', 'method': 'post', 'url': '/Exam/GetExamList', 'code': 401.0, 'msg': 0.0, 'headers': {'Accept': 'application/json, text/plain, */*', 'Content-Type': 'application/json;charset=UTF-8'}, 'token': 0.0, 'params': '', 'data': {'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}}
+------------------
+

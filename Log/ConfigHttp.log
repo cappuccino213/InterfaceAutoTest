@@ -1,0 +1,324 @@
+[时间]:2019-03-26 17:22:21,068
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Admin/Config/GetDicomPeerDropDown
+------------------
+
+[时间]:2019-03-26 17:22:21,154
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_headers
+[行号]:45
+[信息]:type:<class 'dict'> value:{'Accept': 'application/json, text/plain, */*', 'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Inp5cCIsIkN1c3RvbURhdGEiOiJcIlwiIiwianRpIjoiYjMwMGYzZjgtNzlhYy00MmE0LTg2YjAtYTJkOGJlYWVhZmExIiwiaWF0IjoiMjAxOS8zLzI2IDE3OjIyOjIxIiwiZXhwIjoxNTUzNTkyMjYxLCJpc3MiOiJlV29yZCIsImF1ZCI6IkVDRUU2OUVENTZBRTQzNTI4RUM2MTAxMkREQjZFQjBGIn0.369yFWeOPniDQ5DwctiB9CCfObyYyHpCxnxR1QF2MeQ'}
+------------------
+
+[时间]:2019-03-26 17:22:21,155
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_params
+[行号]:49
+[信息]:type:<class 'str'> value:
+------------------
+
+[时间]:2019-03-26 17:22:21,170
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Admin/Config/GetAdminConfig
+------------------
+
+[时间]:2019-03-26 17:22:21,170
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Admin/Config/GetAdminConfig
+------------------
+
+[时间]:2019-03-26 17:22:21,248
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_headers
+[行号]:45
+[信息]:type:<class 'dict'> value:{'Accept': 'application/json, text/plain, */*', 'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Inp5cCIsIkN1c3RvbURhdGEiOiJcIlwiIiwianRpIjoiNmU3YjY2YTktYjAyNi00YWI4LTgxZGMtOTRhMzkyNWY0NTIxIiwiaWF0IjoiMjAxOS8zLzI2IDE3OjIyOjIyIiwiZXhwIjoxNTUzNTkyMjYyLCJpc3MiOiJlV29yZCIsImF1ZCI6IkY4NDAyNEU3MjQxMDRBQTVCMjFBODM1MTlBMzA3RTIwIn0.1HlS5TC9HoactXVgY5kRok6lnNrdx-t_g1B4TJpCrNg'}
+------------------
+
+[时间]:2019-03-26 17:22:21,248
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_headers
+[行号]:45
+[信息]:type:<class 'dict'> value:{'Accept': 'application/json, text/plain, */*', 'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Inp5cCIsIkN1c3RvbURhdGEiOiJcIlwiIiwianRpIjoiNmU3YjY2YTktYjAyNi00YWI4LTgxZGMtOTRhMzkyNWY0NTIxIiwiaWF0IjoiMjAxOS8zLzI2IDE3OjIyOjIyIiwiZXhwIjoxNTUzNTkyMjYyLCJpc3MiOiJlV29yZCIsImF1ZCI6IkY4NDAyNEU3MjQxMDRBQTVCMjFBODM1MTlBMzA3RTIwIn0.1HlS5TC9HoactXVgY5kRok6lnNrdx-t_g1B4TJpCrNg'}
+------------------
+
+[时间]:2019-03-26 17:22:21,249
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_params
+[行号]:49
+[信息]:type:<class 'str'> value:
+------------------
+
+[时间]:2019-03-26 17:22:21,249
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_params
+[行号]:49
+[信息]:type:<class 'str'> value:
+------------------
+
+[时间]:2019-03-26 17:22:21,289
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Home/Login
+------------------
+
+[时间]:2019-03-26 17:22:21,289
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Home/Login
+------------------
+
+[时间]:2019-03-26 17:22:21,289
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Home/Login
+------------------
+
+[时间]:2019-03-26 17:22:21,358
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_headers
+[行号]:45
+[信息]:type:<class 'dict'> value:{'Accept': 'application/json, text/plain, */*', 'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Inp5cCIsIkN1c3RvbURhdGEiOiJcIlwiIiwianRpIjoiMzY3ZjYwNWUtMDQxNC00YzFjLTk1YmItODI3MTYyMTM0NjY0IiwiaWF0IjoiMjAxOS8zLzI2IDE3OjIyOjIyIiwiZXhwIjoxNTUzNTkyMjYyLCJpc3MiOiJlV29yZCIsImF1ZCI6IkUyRUUxM0UxRDEyQzQyRTRCRjZBOUNDNkMyNDkxRDM2In0.sVWHOznuyk4ApzG0Qc2Q3brfsFDpY3ZnoZRxSWcw6QM'}
+------------------
+
+[时间]:2019-03-26 17:22:21,358
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_headers
+[行号]:45
+[信息]:type:<class 'dict'> value:{'Accept': 'application/json, text/plain, */*', 'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Inp5cCIsIkN1c3RvbURhdGEiOiJcIlwiIiwianRpIjoiMzY3ZjYwNWUtMDQxNC00YzFjLTk1YmItODI3MTYyMTM0NjY0IiwiaWF0IjoiMjAxOS8zLzI2IDE3OjIyOjIyIiwiZXhwIjoxNTUzNTkyMjYyLCJpc3MiOiJlV29yZCIsImF1ZCI6IkUyRUUxM0UxRDEyQzQyRTRCRjZBOUNDNkMyNDkxRDM2In0.sVWHOznuyk4ApzG0Qc2Q3brfsFDpY3ZnoZRxSWcw6QM'}
+------------------
+
+[时间]:2019-03-26 17:22:21,358
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_headers
+[行号]:45
+[信息]:type:<class 'dict'> value:{'Accept': 'application/json, text/plain, */*', 'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Inp5cCIsIkN1c3RvbURhdGEiOiJcIlwiIiwianRpIjoiMzY3ZjYwNWUtMDQxNC00YzFjLTk1YmItODI3MTYyMTM0NjY0IiwiaWF0IjoiMjAxOS8zLzI2IDE3OjIyOjIyIiwiZXhwIjoxNTUzNTkyMjYyLCJpc3MiOiJlV29yZCIsImF1ZCI6IkUyRUUxM0UxRDEyQzQyRTRCRjZBOUNDNkMyNDkxRDM2In0.sVWHOznuyk4ApzG0Qc2Q3brfsFDpY3ZnoZRxSWcw6QM'}
+------------------
+
+[时间]:2019-03-26 17:22:21,359
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_params
+[行号]:49
+[信息]:type:<class 'dict'> value:{'account': 'Admin', 'password': '888afc9f6809948a9041ba57859b4897', 'loginType': '1'}
+------------------
+
+[时间]:2019-03-26 17:22:21,359
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_params
+[行号]:49
+[信息]:type:<class 'dict'> value:{'account': 'Admin', 'password': '888afc9f6809948a9041ba57859b4897', 'loginType': '1'}
+------------------
+
+[时间]:2019-03-26 17:22:21,359
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_params
+[行号]:49
+[信息]:type:<class 'dict'> value:{'account': 'Admin', 'password': '888afc9f6809948a9041ba57859b4897', 'loginType': '1'}
+------------------
+
+[时间]:2019-03-26 17:22:21,453
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Exam/GetExamList
+------------------
+
+[时间]:2019-03-26 17:22:21,453
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Exam/GetExamList
+------------------
+
+[时间]:2019-03-26 17:22:21,453
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Exam/GetExamList
+------------------
+
+[时间]:2019-03-26 17:22:21,453
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Exam/GetExamList
+------------------
+
+[时间]:2019-03-26 17:22:21,545
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_data
+[行号]:53
+[信息]:type:<class 'dict'> value:{'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}
+------------------
+
+[时间]:2019-03-26 17:22:21,545
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_data
+[行号]:53
+[信息]:type:<class 'dict'> value:{'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}
+------------------
+
+[时间]:2019-03-26 17:22:21,545
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_data
+[行号]:53
+[信息]:type:<class 'dict'> value:{'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}
+------------------
+
+[时间]:2019-03-26 17:22:21,545
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_data
+[行号]:53
+[信息]:type:<class 'dict'> value:{'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}
+------------------
+
+[时间]:2019-03-26 17:22:21,587
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Exam/GetExamList
+------------------
+
+[时间]:2019-03-26 17:22:21,587
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Exam/GetExamList
+------------------
+
+[时间]:2019-03-26 17:22:21,587
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Exam/GetExamList
+------------------
+
+[时间]:2019-03-26 17:22:21,587
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Exam/GetExamList
+------------------
+
+[时间]:2019-03-26 17:22:21,587
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_url
+[行号]:41
+[信息]:type:<class 'str'> value:http://192.168.1.18:8091/Exam/GetExamList
+------------------
+
+[时间]:2019-03-26 17:22:21,588
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_data
+[行号]:53
+[信息]:type:<class 'dict'> value:{'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}
+------------------
+
+[时间]:2019-03-26 17:22:21,588
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_data
+[行号]:53
+[信息]:type:<class 'dict'> value:{'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}
+------------------
+
+[时间]:2019-03-26 17:22:21,588
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_data
+[行号]:53
+[信息]:type:<class 'dict'> value:{'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}
+------------------
+
+[时间]:2019-03-26 17:22:21,588
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_data
+[行号]:53
+[信息]:type:<class 'dict'> value:{'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}
+------------------
+
+[时间]:2019-03-26 17:22:21,588
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ConfigHttp.py
+[函数]:set_data
+[行号]:53
+[信息]:type:<class 'dict'> value:{'examInfo': {'medRecNo': '', 'patientID': '', 'accessionNumber': '', 'examType': [], 'patientName': '', 'hasFilm': '', 'isPrinted': '', 'dicomPeerIDList': [], 'examStartDate': '2018-09-13 00:00:00', 'examEndDate': '2019-03-13 23:59:59'}, 'pageInfo': {'pageIndex': 1, 'pageSize': 10}, 'orderInfo': {'columnName': 'RequestTime', 'orderType': 0}}
+------------------
+

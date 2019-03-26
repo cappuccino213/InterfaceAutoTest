@@ -1,0 +1,54 @@
+[时间]:2019-03-26 17:18:57,841
+[线程]:3724
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadConfig.py
+[函数]:conf
+[行号]:48
+[信息]:read config:{'host': '192.168.1.16', 'user': 'test', 'password': '123456', 'dbname': 'gecris', 'baseurl': 'http://192.168.1.18', 'port': ':8091', 'timeout': '1', 'xlsxname': 'testcase.xlsx', 'sheetname': 'POD_API', 'level': 'info', 'log': '--resultlog=Log\\result.log', 'html': '--html=Report\\report.html', 'reporting': '-vr', 'script': 'test_httpAPI.py'}
+------------------
+
+[时间]:2019-03-26 17:21:17,827
+[线程]:26260
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadConfig.py
+[函数]:conf
+[行号]:48
+[信息]:read config:{'host': '192.168.1.16', 'user': 'test', 'password': '123456', 'dbname': 'gecris', 'baseurl': 'http://192.168.1.18', 'port': ':8091', 'timeout': '1', 'xlsxname': 'testcase.xlsx', 'sheetname': 'POD_API', 'level': 'info', 'log': '--resultlog=Log\\result.log', 'html': '--html=Report\\report.html', 'reporting': '-vr', 'script': 'test_httpAPI.py'}
+------------------
+
+[时间]:2019-03-26 17:21:51,827
+[线程]:27392
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadConfig.py
+[函数]:conf
+[行号]:48
+[信息]:read config:{'host': '192.168.1.16', 'user': 'test', 'password': '123456', 'dbname': 'gecris', 'baseurl': 'http://192.168.1.18', 'port': ':8091', 'timeout': '1', 'xlsxname': 'testcase.xlsx', 'sheetname': 'POD_API', 'level': 'info', 'log': '--resultlog=Log\\result.log', 'html': '--html=Report\\report.html', 'reporting': '-vr', 'script': 'test_httpAPI.py'}
+------------------
+
+[时间]:2019-03-26 17:22:20,912
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadConfig.py
+[函数]:conf
+[行号]:48
+[信息]:read config:{'host': '192.168.1.16', 'user': 'test', 'password': '123456', 'dbname': 'gecris', 'baseurl': 'http://192.168.1.18', 'port': ':8091', 'timeout': '1', 'xlsxname': 'testcase.xlsx', 'sheetname': 'POD_API', 'level': 'info', 'log': '--resultlog=Log\\result.log', 'html': '--html=Report\\report.html', 'reporting': '-vr', 'script': 'test_httpAPI.py'}
+------------------
+
+[时间]:2019-03-26 17:22:21,030
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadConfig.py
+[函数]:conf
+[行号]:48
+[信息]:read config:{'host': '192.168.1.16', 'user': 'test', 'password': '123456', 'dbname': 'gecris', 'baseurl': 'http://192.168.1.18', 'port': ':8091', 'timeout': '1', 'xlsxname': 'testcase.xlsx', 'sheetname': 'POD_API', 'level': 'info', 'log': '--resultlog=Log\\result.log', 'html': '--html=Report\\report.html', 'reporting': '-vr', 'script': 'test_httpAPI.py'}
+------------------
+
+[时间]:2019-03-26 17:22:21,030
+[线程]:4152
+[级别]:INFO
+[路径]:E:\python\AutoTestPlat\InterfaceAutoTest\Common\ReadConfig.py
+[函数]:conf
+[行号]:48
+[信息]:read config:{'host': '192.168.1.16', 'user': 'test', 'password': '123456', 'dbname': 'gecris', 'baseurl': 'http://192.168.1.18', 'port': ':8091', 'timeout': '1', 'xlsxname': 'testcase.xlsx', 'sheetname': 'POD_API', 'level': 'info', 'log': '--resultlog=Log\\result.log', 'html': '--html=Report\\report.html', 'reporting': '-vr', 'script': 'test_httpAPI.py'}
+------------------
+
