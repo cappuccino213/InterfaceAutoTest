@@ -7,7 +7,6 @@
 # @license : Copyright(C), eWord Technology Co., Ltd.
 # @Contact : yeahcheung213@163.com
 import pytest
-from datetime import datetime
 from py._xmlgen import html
 
 """
